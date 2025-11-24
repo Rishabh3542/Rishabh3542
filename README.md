@@ -77,7 +77,7 @@
 - 📂 Working on small **end-to-end projects** (data ➜ model ➜ evaluation)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukh5R8QZu9fgc/giphy.gif" alt="AI Brain GIF" width="350" />
+  <img src="https://process.filestackapi.com/cache=expiry:max/8OjKACe6TNGMABSL7gIl" alt="AI Brain GIF" width="350" />
 </p>
 
 ---
