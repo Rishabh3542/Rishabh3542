@@ -95,19 +95,8 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh3542&show_icons=true&theme=transparent&hide_border=true" alt="rishabh3542 stats" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh3542&theme=transparent&hide_border=true" alt="rishabh3542 streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh3542&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
